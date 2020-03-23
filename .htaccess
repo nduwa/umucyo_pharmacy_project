@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+        RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteRule ^phrmc@4hm home.php [NC,L]
+RewriteRule ^uswe_settngs@uuuuuu profile [NC,L]
+RewriteRule ^ksjhdjshdjh@@@IUIIUU edit_purchased_medecine.php [NC,L]
+RewriteRule ^ksjhdjshdjh@@@IUIIUKKkdfr medecine_purchase.php [NC,L]
+</IfModule>
